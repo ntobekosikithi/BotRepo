@@ -1,0 +1,6 @@
+framework module Pods_MovieTap {
+  umbrella header "Pods-MovieTap-umbrella.h"
+
+  export *
+  module * { export * }
+}
